@@ -6,7 +6,7 @@ A tiny, self-contained project to practise **Lakehouse → OLAP** loading patter
 
 ## What the script does
 
-**Loads NYX Yellow-Taxi data into Postgres via DuckDB**  
+**Loads NYC Yellow-Taxi data into Postgres via DuckDB**  
    ```text
    Polars DataFrame  →  DuckDB temp view
                      →  DuckDB postgres extension
